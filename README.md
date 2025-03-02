@@ -10,6 +10,7 @@
 
 You can view the live demo of this portfolio website on Netlify:
 <br>
+Netlify: [Portfolio Website](https://prabhat.academyxcel.com/)
 
 ## Pages
 
